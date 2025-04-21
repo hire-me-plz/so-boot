@@ -1,3 +1,6 @@
 [submodule "so-boot-frontend"]
 	path = so-boot-frontend
 	url = https://lab.ssafy.com/dcd/so-boot-frontend.git
+[submodule "so-boot-backend"]
+	path = so-boot-backend
+	url = https://lab.ssafy.com/dcd/so-boot-backend.git

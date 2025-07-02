@@ -6,7 +6,7 @@
 >
 > **면접 3단계 준비 기반 맞춤형 면접 연습 플랫폼 So.Boot!**
 
-- [🌐 So.Boot 서비스 바로가기](https://soboot.co.kr/)
+- [🌐 So.Boot 서비스 바로가기(백엔드 배포 중단)](https://so-boot.vercel.app/)
 - [🎞 So.Boot 영상 포트폴리오](https://youtu.be/_rrNUo6yius)
 - [📌 So.Boot PPT](https://www.figma.com/deck/wcgWgt6FAvZF7l599ZJUUP/So.Boot-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C?node-id=1-983&t=SbnpmcBXm8KtsTVt-1)
 
